@@ -1,0 +1,19 @@
+{
+  "name": "adviceme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajini12/adviceme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajini12/adviceme/issues"
+  },
+  "homepage": "https://github.com/rajini12/adviceme#readme"
+}
